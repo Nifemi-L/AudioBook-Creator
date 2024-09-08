@@ -1,1 +1,1 @@
-This is a small script that converts pdf to mp3 using gTTS API.
+This small script converts PDF text content to mp3 using gTTS API.
